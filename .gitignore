@@ -1,0 +1,4 @@
+/dist/*
+config.yaml
+/keys/*
+/__pycache__/*

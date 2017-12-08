@@ -1,0 +1,11 @@
+{
+    "body": {
+        "events": [],
+        "firstEventSequence": 0,
+        "lastEventSequence": 0,
+        "entropy": "OGXTBBZDRVLZGTHFSTPI"
+    },
+    "headers": {
+        "x-xero-signature": "ifJ6prFRk0ehDN6q1NsoWXzdp0"
+    }
+}
