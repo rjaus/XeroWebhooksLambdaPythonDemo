@@ -1,6 +1,6 @@
 ### Xero Webhooks Demo with AWS Lambda & Python
 
-See the blog post on medium for more details: 
+See the blog post on medium for more details: https://medium.com/@riley.james/getting-hooked-on-xero-with-aws-lambda-9ed4075c5c23
 
 This example shows how to handle ITR (Intent to Receive).
 
