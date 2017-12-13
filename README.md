@@ -8,6 +8,7 @@ In this example we're using:
 - AWS Lambda
 - Python 3.6
 - AWS API Gateway
-- Xero API
-- Xero Webhooks
-- PyXero
+- Xero API: https://developer.xero.com/documentation/api/api-overview
+- Xero Webhooks: https://developer.xero.com/documentation/webhooks/overview
+- PyXero: https://github.com/freakboy3742/pyxero
+- Python Lambda: https://github.com/nficano/python-lambda
